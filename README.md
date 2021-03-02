@@ -1,3 +1,3 @@
-## Pneumonia_diagnosis
+## Pneumonia diagnosis
 ---
 using X-Rays
